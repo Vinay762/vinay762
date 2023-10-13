@@ -5,9 +5,8 @@
 
 
 
-- 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **react, node.js and express.js**
+- 💬 Ask me about **react, node.js, express.js, mongodb, angular, postgresql, sql, system design, DSA**
 
 - 📫 How to reach me **vinaytiwari1501@gmail.com**
 
